@@ -1,0 +1,6 @@
+data/
+log/
+checkpoints/
+env/
+__pycache__/
+*.pyc
